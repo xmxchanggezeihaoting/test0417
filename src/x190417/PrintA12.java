@@ -5,7 +5,6 @@ class p12 implements Runnable{
 	public p12(Object obj) {
 		this.obj = obj;
 	}
-
 	@Override
 	public void run() {
 		
